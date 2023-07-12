@@ -11,4 +11,11 @@ When you **clone a repository**, you copy the repository from GitHub.com to your
 
 --- 
 
+> 3 Pillars of Frontend:
+- Html
+- CSS
+- JavaScript
+
+In Javascript we can display the output using the below syntax:
+`console.log("Hello World")`
 
